@@ -8,7 +8,7 @@ saladfgdfgdfg;sdls;dlf,s;ldf,lskdflskdfmlskdffghfgh
   - [C oop implement:](#c-oop-implement)fghfghfgh
 - [](#)rtgrtgrt
 - [  member           -                +       +](#member-----------------------------------)
-  - [Quick Start:](#quick-start)
+  - [Quick Start:](#quick-start)dfbdfbdfb
   - [Make a pattern](#make-a-pattern)
   - [Auto Generate class](#auto-generate-class)
   - [OOP basic:](#oop-basic)
